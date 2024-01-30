@@ -29,7 +29,7 @@ EduPluse is a comprehensive online education platform built with PHP, HTML, and 
 1. Clone the repository to your local machine.
 
     ```bash
-    git clone https://github.com/your-username/edupluse.git
+    git clone https://github.com/rahul25062002/EduPulse.git
     ```
 
 2. Set up a local server environment (e.g., XAMPP, WampServer).
